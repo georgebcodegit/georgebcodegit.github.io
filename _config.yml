@@ -118,6 +118,7 @@ content:
           
           Train and mentor interns and new team members in team on products and technology
 
+
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -138,7 +139,8 @@ content:
           - solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
           - monitor code quality, sign-off on the deliverable and deployment executed by the SI partner
           - Engage in API roadmap for Open Banking initiatives
-          
+
+
     layout: list # Type of content section (list/text)
     content:
       - layout: left
