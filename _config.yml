@@ -119,7 +119,8 @@ content:
           Train and mentor interns and new team members in team on products and technology.
     
     ---
-    
+
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: SAP
