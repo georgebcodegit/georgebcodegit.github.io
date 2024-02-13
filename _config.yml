@@ -49,13 +49,16 @@ linkedin_username: george biswal
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is George and I'm a Principal Architect. I have technical hand-on and architecture experience in the following Cloud Architecture, Cyber Security, Implementations and Migrations. 
+  Hi, my name is George and I'm a Principal Architect. I have technical hand-on and architecture experience in Cloud Architecture, Cyber Security, Implementations and Migrations of SAP solutions. 
+
   My domain experience includes: Banking, Investment Banking, Public and Private sector industries. 
+
   My technical skills includes - SAP ABAP, SOA, SOAP & REST services, FIORI,Java Script, Python, SAP SAC, BTP, Business Process Automation, Extensions and Enhancements, Cloud security assessments and Machine Learning. 
   Additionally, I have experience in SAP SuccessFactors, SAP BTP, SAP SAC, SAP S/4HANA, SAP Core Banking, SAP Payments Engine and SAP Datasphere.
+
   I am most skilled in: <mark>SAP Solution Architecture</mark>, <mark>SAP Technical Architecture</mark>, <mark>SAP Integration Architecture</mark> and <mark>SAP Implementation</mark>.
 
-  My certifications includes: <mark>SAP Banking</mark>, <mark>AWS/<mark> and <mark>TOGAF</mark>.
+  My certifications includes: <mark>SAP Banking</mark>, <mark>AWS</mark> and <mark>TOGAF</mark>.
 
 content:
   - title: Projects # Title for the section
