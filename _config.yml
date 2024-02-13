@@ -116,7 +116,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Delivered on architecture of SaaS, PaaS and IaaS based cloud solution, and cyber security assessments for the software and platform solutions. Designed cloud solution for complex customer requests, conducted workshops to upskill partners and customers on various solution, application, integration, data warehouse, analytics and machine learning capabilities. Also, provided solution on migration approach and provided customer and partner migration planning workshop to impart knowledge on migration from on-prem to cloud based solutions.
 
-          Train and mentor interns and new team members in team on products and technology.
+          Train and mentor interns and new team members in team on products and technology
 
     content:
       - layout: left
@@ -136,7 +136,7 @@ content:
           - key business stakeholders in gathering requirements, 
           - solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
           - monitor code quality, sign-off on the deliverable and deployment executed by the SI partner
-          - Engage in API roadmap for Open Banking initiatives.
+          - Engage in API roadmap for Open Banking initiatives
 
     content:
       - layout: left
