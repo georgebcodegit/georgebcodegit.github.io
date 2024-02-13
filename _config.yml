@@ -120,7 +120,7 @@ content:
 
     content:
       - layout: left
-        title: SAP
+        title: SAP-CBA
         # sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -137,10 +137,10 @@ content:
           - solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
           - monitor code quality, sign-off on the deliverable and deployment executed by the SI partner
           - Engage in API roadmap for Open Banking initiatives.
-          
+
     content:
       - layout: left
-        title: SAP
+        title: SAP-Macquarie Bank
         # sub_title: Macquarie Bank
         # link: boringcompany.com
         # link_text: boringcompany.com
