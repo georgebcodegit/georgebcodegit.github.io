@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
-name: George Biswal
+name: George B
 title: Principal Architect / Enterprise Architect
 email: george.itmatters@gmail.com
 website: https://georgebcodegit.github.io
@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username: georgebcodegit
+# github_username: 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: george biswal
+# linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -123,10 +123,11 @@ content:
     content:
       - layout: left
         title: SAP
-        sub_title: CBA
+        # sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Principal Architect
+        sub_title: Principal Architect 
+        \CBA
         caption: February 2020 - November 2021
         quote: >
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
