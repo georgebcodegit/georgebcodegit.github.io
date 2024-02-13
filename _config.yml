@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-# github_username: 
+# github_username:
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-# linkedin_username: 
+# linkedin_username:
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -104,8 +104,7 @@ content:
         # sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Principal Architect 
-        \CBA
+        sub_title: Principal Architect
         caption: February 2020 - November 2021
         quote: >
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
@@ -125,8 +124,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Principal Architect 
-        \Macquarie Bank
+        sub_title: Principal Architect
         caption: January 2014 - February 2020
         quote: >
           Core Banking, Retail Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
@@ -147,8 +145,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Senior Architect 
-        \CBA
+        sub_title: Senior Architect
         caption: February 2010 - January 2014
         quote: >
           Core Banking, Commercial Lending, Migration, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Design, Implementation, Deployment and Support
@@ -159,7 +156,7 @@ content:
           - migration from legacy to SAP Core Banking.
           - implementation of multiple payment solutions and features and integrations 
           - key business stakeholders/product owners in gathering requirements
-          - lead technical team and collaborate with business on requirements and deliverables      
+          - lead technical team and collaborate with business on requirements and deliverables
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
