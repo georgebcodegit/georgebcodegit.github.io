@@ -135,8 +135,8 @@ content:
           - key business stakeholders/product owners in gathering requirements
           - lead technical team and collaborate with business on requirements and deliverables
 
-      layout: list # Type of content section (list/text)
-      content:
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: SAP Labs
         sub_title: Principal Software Engineer
@@ -146,21 +146,53 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a SAP Product development specialist, worked across various product development opportunities within SAP Core Banking (Deposits, Accounts, Payments and Loans Management) and Treasury and Risk Management.
 
-              
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: HCL Technologies (Canada)
+        sub_title: Senior Software Engineer
+        caption: Sep 2006 - July 2007
+        quote: >
+          SAP ERP, Supply Chain, Material Management, Finance, Quality Management
+        description: | # this will include new lines to allow paragraphs
+          As an on-site and ALE/IDoc expert was part of the implementation and maintenane project, with the following responsibilities:
+          - lead offshore team in driving outcome
+          - manage stakeholders and gather business requirements
+          = design, review and deliver solutions related to ALV, BDC, SAP Scripts, LSMW and enhancements
 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Siemens
+        sub_title: Software Engineer  [SAP Labs]
+        caption: Oct 2005 - Sep 2006
+        quote: >
+          SAP Banking Services, Transaction Banking (TRBK)
+        description: | # this will include new lines to allow paragraphs
+          Participated in design and development of SAP Banking Services on Newtweaver
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Goldman Sachs
+        sub_title: Technology Analyst
+        caption: Jan 2004 - Oct 2005
+        quote: >
+          Investment Banking, Application Packaging, CMS
+        description: | # this will include new lines to allow paragraphs
+          Participated in design of infrastructure blueprints, application packaging of software, system maintenance, and maintain internal reporting team site.  
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: NIST
+        caption: 1998 - 2002
+        sub_title: Bachelor of Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Electrical and Electronics
 
   - title: A Little More About Me
     layout: text
