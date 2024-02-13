@@ -49,7 +49,7 @@ linkedin_username: george biswal
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is George and I'm a Principal Architect. I have technical hand-on and architecture experience in Cloud Architecture, Cyber Security, Implementations and Migrations of SAP solutions. 
+  Hi, my name is George and I'm a Principal Architect. I have technical hand-on experience in implementations and migrations of SAP solutions, and architecture experience in Cloud Architecture, Cyber Security, SAP solutions, integrations and applications. 
 
   My domain experience includes: Banking, Investment Banking, Public and Private sector industries. 
 
@@ -117,6 +117,8 @@ content:
           Delivered on architecture of SaaS, PaaS and IaaS based cloud solution, and cyber security assessments for the software and platform solutions. Designed cloud solution for complex customer requests, conducted workshops to upskill partners and customers on various solution, application, integration, data warehouse, analytics and machine learning capabilities. Also, provided solution on migration approach and provided customer and partner migration planning workshop to impart knowledge on migration from on-prem to cloud based solutions.
 
           Train and mentor interns and new team members in team on products and technology.
+    
+    ---
     
     content:
       - layout: left
