@@ -146,10 +146,11 @@ content:
     content:
       - layout: left
         title: SAP
-        sub_title: Macquarie Bank
+        # sub_title: Macquarie Bank
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Principal Architect
+        sub_title: Principal Architect 
+        \Macquarie Bank
         caption: February 2014 - February 2020
         quote: >
           Core Banking, Reatial Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
