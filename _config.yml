@@ -144,8 +144,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SAP-Macquarie Bank
-        # sub_title: Macquarie Bank
+        title: SAP
+        sub_title: Macquarie Bank
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Principal Architect
