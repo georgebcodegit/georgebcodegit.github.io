@@ -122,8 +122,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SAP-CBA
-        # sub_title: CBA
+        title: SAP
+        sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Principal Architect
