@@ -125,8 +125,6 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Principal Architect 
         \Macquarie Bank
         caption: January 2014 - February 2020
@@ -149,8 +147,6 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Architect 
         \CBA
         caption: February 2010 - January 2014
