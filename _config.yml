@@ -80,7 +80,7 @@ content:
         # link_text: boringcompany.com
         sub_title: |
           Principal Architect       
-             
+
           CBA
         caption: February 2019 - November 2021
         quote: >
@@ -134,6 +134,19 @@ content:
           - implementation of multiple payment solutions and features and integrations 
           - key business stakeholders/product owners in gathering requirements
           - lead technical team and collaborate with business on requirements and deliverables
+
+      layout: list # Type of content section (list/text)
+      content:
+      - layout: left
+        title: SAP Labs
+        sub_title: Principal Software Engineer
+        caption: July 2007 - January 2010
+        quote: >
+          Banking Services, Payments Engine, Deposits , Accounts, Loans, Treasury and Risk Management
+        description: | # this will include new lines to allow paragraphs
+          As a SAP Product development specialist, worked across various product development opportunities within SAP Core Banking (Deposits, Accounts, Payments and Loans Management) and Treasury and Risk Management.
+
+              
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
