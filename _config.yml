@@ -135,6 +135,7 @@ content:
           - key business stakeholders/product owners in gathering requirements
           - lead technical team and collaborate with business on requirements and deliverables
 
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -146,6 +147,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           As a SAP Product development specialist, worked across various product development opportunities within SAP Core Banking (Deposits, Accounts, Payments and Loans Management) and Treasury and Risk Management.
 
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -160,6 +162,7 @@ content:
           - manage stakeholders and gather business requirements
           = design, review and deliver solutions related to ALV, BDC, SAP Scripts, LSMW and enhancements
 
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -171,6 +174,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Participated in design and development of SAP Banking Services on Newtweaver
 
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -180,8 +184,8 @@ content:
         quote: >
           Investment Banking, Application Packaging, CMS
         description: | # this will include new lines to allow paragraphs
-          Participated in design of infrastructure blueprints, application packaging of software, system maintenance, and maintain internal reporting team site.  
-          
+          Participated in design of infrastructure blueprints, application packaging of software, system maintenance, and maintain internal reporting team site.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
