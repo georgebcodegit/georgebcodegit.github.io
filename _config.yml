@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak # Value of `weak` will display a weak border below this item
+        # border: weak # Value of `weak` will display a weak border below this item
         title: SAP
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -208,7 +208,7 @@ content:
       - Travelling
 
       Look at this cool image  
-      ![Trees](/georgebcodegit.github.io/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
