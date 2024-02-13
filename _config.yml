@@ -56,11 +56,33 @@ about_content: | # this will include new lines to allow paragraphs
   My technical skills includes - SAP ABAP, SOA, SOAP & REST services, FIORI,Java Script, Python, SAP SAC, BTP, Business Process Automation, Extensions and Enhancements, Cloud security assessments and Machine Learning. 
   Additionally, I have experience in SAP SuccessFactors, SAP BTP, SAP SAC, SAP S/4HANA, SAP Core Banking, SAP Payments Engine and SAP Datasphere.
 
-  I am most skilled in: <mark>SAP Solution Architecture</mark>, <mark>SAP Technical Architecture</mark>, <mark>SAP Integration Architecture</mark> and <mark>SAP Implementation</mark>.
+  I am most skilled in: <mark>SAP Solution Architecture</mark>, <mark>SAP Technical Architecture</mark>, <mark>SAP Integration Architecture</mark> and <mark>SAP Implementations</mark>.
 
   My certifications includes: <mark>SAP Banking</mark>, <mark>AWS</mark> and <mark>TOGAF</mark>.
 
 content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Super awesome project
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          | Column 1  | Column 2  |
+          |-----------|-----------|
+          | test      | test      |
+          | test 2    | teset2    |
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
