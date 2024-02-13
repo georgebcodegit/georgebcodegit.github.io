@@ -62,7 +62,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Enterprise Cloud Architect
-        caption: November 2021 - Present
+        caption: November 2020- Present
         quote: >
           Cloud Architecture, Cyber and Information Security, Solution Architecture, Migrations to S/4HANA and SuccessFactors, Partner Engagement, Customer Facing, Pre-sales engagements, Stakeholder management, Workshops, Roadmaps, Capability and Enterprise Architecture.
         description: | # this will include new lines to allow paragraphs
@@ -78,9 +78,10 @@ content:
         # sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        customer: CBA
-        sub_title: Principal Architect    :| CBA
-        caption: February 2020 - November 2021
+        sub_title: |
+          Principal Architect   
+          CBA
+        caption: February 2019 - November 2021
         quote: >
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
         description: | # this will include new lines to allow paragraphs
