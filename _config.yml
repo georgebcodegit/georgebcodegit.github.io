@@ -79,7 +79,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         customer: CBA
-        sub_title: Principal Architect
+        sub_title: Principal Architect    CBA
         caption: February 2020 - November 2021
         quote: >
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
@@ -99,7 +99,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Principal Architect
+        sub_title: Principal Architect    Macquarie Bank
         caption: January 2014 - February 2020
         quote: >
           Core Banking, Retail Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
@@ -120,7 +120,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Senior Architect
+        sub_title: Senior Architect    CBA
         caption: February 2010 - January 2014
         quote: >
           Core Banking, Commercial Lending, Migration, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Design, Implementation, Deployment and Support
