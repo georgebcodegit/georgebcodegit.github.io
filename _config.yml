@@ -79,7 +79,8 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: |
-          Principal Architect   
+          Principal Architect       
+             
           CBA
         caption: February 2019 - November 2021
         quote: >
@@ -101,7 +102,7 @@ content:
         title: SAP
         # sub_title: Macquarie Bank
         sub_title: Principal Architect    Macquarie Bank
-        caption: January 2014 - February 2020
+        caption: January 2014 - February 2019
         quote: >
           Core Banking, Retail Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
         description: | # this will include new lines to allow paragraphs
