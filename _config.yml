@@ -118,6 +118,7 @@ content:
           
           Train and mentor interns and new team members in team on products and technology
 
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: SAP-CBA
@@ -138,26 +139,27 @@ content:
           - monitor code quality, sign-off on the deliverable and deployment executed by the SI partner
           - Engage in API roadmap for Open Banking initiatives
           
-    # content:
-    #   - layout: left
-    #     title: SAP-Macquarie Bank
-    #     # sub_title: Macquarie Bank
-    #     # link: boringcompany.com
-    #     # link_text: boringcompany.com
-    #     sub_title: Principal Architect
-    #     caption: February 2014 - February 2020
-    #     quote: >
-    #       Core Banking, Reatial Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
-    #     description: | # this will include new lines to allow paragraphs
-    #       Hands-on experience in SAP Core Banking greenfield implementation, from setting up the system from scratch, to system architecture, setting up of application development and integration framework and governance and best practices. 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SAP-Macquarie Bank
+        # sub_title: Macquarie Bank
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Principal Architect
+        caption: February 2014 - February 2020
+        quote: >
+          Core Banking, Reatial Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
+        description: | # this will include new lines to allow paragraphs
+          Hands-on experience in SAP Core Banking greenfield implementation, from setting up the system from scratch, to system architecture, setting up of application development and integration framework and governance and best practices. 
 
-    #       As an architect and principal consultant, participated in various roles and responsibilites within the customer space. Key roles and responsibilities included:
+          As an architect and principal consultant, participated in various roles and responsibilites within the customer space. Key roles and responsibilities included:
 
-    #       - represent SAP in the ARB in setting up strategice roadmaps and key decision making activities
-    #       - key business stakeholders/product owners in gathering requirements while working in an Agile environment, 
-    #       - lead solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
-    #       - orchestrate and automate business process and integrate using middleware technology with channel applications
-    #       - solution design - accounts origination, transaction and savings account, retail loans implementation, implement and integrate collateral management  
+          - represent SAP in the ARB in setting up strategice roadmaps and key decision making activities
+          - key business stakeholders/product owners in gathering requirements while working in an Agile environment, 
+          - lead solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
+          - orchestrate and automate business process and integrate using middleware technology with channel applications
+          - solution design - accounts origination, transaction and savings account, retail loans implementation, implement and integrate collateral management  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
