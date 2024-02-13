@@ -115,10 +115,11 @@ content:
           Cloud Architecture, Cyber and Information Security, Solution Architecture, Migrations to S/4HANA and SuccessFactors, Partner Engagement, Customer Facing, Pre-sales engagements, Stakeholder management, Workshops, Roadmaps, Capability and Enterprise Architecture.
         description: | # this will include new lines to allow paragraphs
           Delivered on architecture of SaaS, PaaS and IaaS based cloud solution, and cyber security assessments for the software and platform solutions. Designed cloud solution for complex customer requests, conducted workshops to upskill partners and customers on various solution, application, integration, data warehouse, analytics and machine learning capabilities. Also, provided solution on migration approach and provided customer and partner migration planning workshop to impart knowledge on migration from on-prem to cloud based solutions.
+          
           Train and mentor interns and new team members in team on products and technology
 
-    content:
-      - layout: left
+    # content:
+    #   - layout: left
         title: SAP-CBA
         # sub_title: CBA
         # link: boringcompany.com
@@ -129,16 +130,16 @@ content:
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
         description: | # this will include new lines to allow paragraphs
           Hands-on experience in SAP Core Banking release upgrade project and remediate post go-live priority issues. 
-          |
+
           As an Architect worked with 
-          |
+        
           - key business stakeholders in gathering requirements, 
           - solution and techncial archtecture team in designing new solutions and reviewing solution designs, 
           - monitor code quality, sign-off on the deliverable and deployment executed by the SI partner
           - Engage in API roadmap for Open Banking initiatives
 
-    content:
-      - layout: left
+    # content:
+    #   - layout: left
         title: SAP-Macquarie Bank
         # sub_title: Macquarie Bank
         # link: boringcompany.com
