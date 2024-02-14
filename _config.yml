@@ -154,10 +154,10 @@ content:
         quote: >
           SAP ERP, Supply Chain, Material Management, Finance, Quality Management
         description: | # this will include new lines to allow paragraphs
-          As an on-site and ALE/IDoc expert was part of the implementation and maintenane project, with the following responsibilities:
+          As an on-site and ALE/IDoc expert was part of the implementation and maintenance project, with the following responsibilities:
           - lead offshore team in driving outcome
           - manage stakeholders and gather business requirements
-          = design, review and deliver solutions related to ALV, BDC, SAP Scripts, LSMW and enhancements
+          - design, review and deliver solutions related to ALV, BDC, SAP Scripts, LSMW and enhancements
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -215,9 +215,6 @@ content:
       - Gaming
       - Cooking
       - Travelling
-
-      # Look at this cool image  
-      # ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
