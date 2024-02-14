@@ -78,10 +78,7 @@ content:
         # sub_title: CBA
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: |
-          Principal Architect       
-
-          CBA
+        sub_title: Principal Architect [@ CBA]
         caption: February 2019 - November 2021
         quote: >
           Core Banking, Commercial Lending, Migration, Upgrade, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Deployment, Support
@@ -101,7 +98,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Principal Architect    Macquarie Bank
+        sub_title: Principal Architect   [@ Macquarie Bank]
         caption: January 2014 - February 2019
         quote: >
           Core Banking, Retail Lending, API, ABAP, BADI, REST, OData, PI/PO, Payments, Loans and Accounts Management, Financial Accounting, CRM, Stakeholder mangement, Requirement gathering, Architecture review, Governance, Code review, Deployment, Support
@@ -122,7 +119,7 @@ content:
       - layout: left
         title: SAP
         # sub_title: Macquarie Bank
-        sub_title: Senior Architect    CBA
+        sub_title: Senior Architect    [@ CBA]
         caption: February 2010 - January 2014
         quote: >
           Core Banking, Commercial Lending, Migration, SOA, REST, PI/PO, API, ABAP, BADI, Payments, Loans and Accounts Management, Financial Accounting, Analytical Banking, Stakeholder mangement, Requirement gathering, Architecture review, Code review, Design, Implementation, Deployment and Support
@@ -151,8 +148,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: HCL Technologies (Canada)
-        sub_title: Senior Software Engineer
+        title: HCL Technologies
+        sub_title: Senior Software Engineer  [@ Celestica]
         caption: Sep 2006 - July 2007
         quote: >
           SAP ERP, Supply Chain, Material Management, Finance, Quality Management
@@ -167,7 +164,7 @@ content:
     content:
       - layout: left
         title: Siemens
-        sub_title: Software Engineer  [SAP Labs]
+        sub_title: Software Engineer  [@ SAP Labs]
         caption: Oct 2005 - Sep 2006
         quote: >
           SAP Banking Services, Transaction Banking (TRBK)
@@ -186,6 +183,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Participated in design of infrastructure blueprints, application packaging of software, system maintenance, and maintain internal reporting team site.
 
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: NIST
+        sub_title: Associate Faculty
+        caption: Aug 2003 - May 2003
+        quote: >
+          Digital Signal Processing, Power Electronics, Texas Micro controller, Matlab, Simulink
+        description: | # this will include new lines to allow paragraphs
+          As a researcher was working on IEEE research papers, writing technical papers and code in Matlab and C++. As a faculty member ran lab sessions and delivered lectures in Digital Signal Processing.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -202,13 +211,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-      - Fishing
+      - Coding IoT devices
       - Gaming
       - Cooking
       - Travelling
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+      # ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
